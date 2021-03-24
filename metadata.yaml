@@ -1,0 +1,35 @@
+_repo: Frank-Merriwell-s-First-Job-Or-At-the-Foot-of-the-Ladder_64635
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, William G. (William Gilbert)
+    - Wilder, William West
+    - Wilder, William W. (William West)
+    - Patten, William Gilbert
+    - Patten, George William
+    - Patten, Gilbert
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2021-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Merriwell, Frank (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Railroads -- Employees -- Juvenile fiction'
+- GITenberg
+title: Frank Merriwell's First Job; Or, At the Foot of the Ladder
+url: http://www.gutenberg.org/ebooks/64635
